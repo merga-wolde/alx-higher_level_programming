@@ -5,8 +5,7 @@ File: 10-model_state_my_get.py
 Desc: This module contains a python script that prints the State
 object with the name passed as argument from the database hbtn_0e_6_usa
 
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
+
 """
 
 from model_state import Base, State

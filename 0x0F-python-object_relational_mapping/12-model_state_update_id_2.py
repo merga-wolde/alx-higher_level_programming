@@ -5,8 +5,7 @@ File: 12-model_state_update_id_2.py
 Desc: This module contains a python script that changes the
 name of a State object from the database hbtn_0e_6_usa
 
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
+
 """
 
 from model_state import Base, State

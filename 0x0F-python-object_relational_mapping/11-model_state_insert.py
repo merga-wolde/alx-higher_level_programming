@@ -5,8 +5,7 @@ File: 11-model_state_insert.py
 Desc: This module contains a python script that adds the
 State object “Louisiana” to the database hbtn_0e_6_usa
 
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
+
 """
 
 from model_state import Base, State

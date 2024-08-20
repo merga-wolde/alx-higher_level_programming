@@ -5,8 +5,6 @@ File: 14-model_city_fetch_by_state.py
 Desc: This module contains a python script that prints all
 City objects from the database hbtn_0e_14_usa
 
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 7 2022
 """
 
 from sys import argv

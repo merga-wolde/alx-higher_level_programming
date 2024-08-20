@@ -5,8 +5,7 @@ File: 102-relatinship_states_cities_list.py
 Desc: This module contains a python script that lists all City
 objects from the database hbtn_0e_101_usa
 
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 8 2022
+
 """
 
 from sqlalchemy import create_engine

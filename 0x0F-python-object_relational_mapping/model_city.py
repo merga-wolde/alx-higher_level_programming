@@ -5,8 +5,7 @@ File: model_city.py
 Desc: This module contains a python script that contains the
 class definition of a City.
 
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 7 2022
+
 """
 
 from sqlalchemy import Column, String, Integer, ForeignKey

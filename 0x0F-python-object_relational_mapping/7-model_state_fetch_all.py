@@ -5,8 +5,7 @@ File: 7-model_state_fetch_all.py
 Desc: This module contains a python script that lists all
 State objects from the database hbtn_0e_6_usa
 
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
+
 """
 
 from model_state import Base, State

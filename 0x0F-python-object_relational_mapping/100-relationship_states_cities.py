@@ -5,8 +5,7 @@ File: 100-relationship_states_cities.py
 Desc: This module contains a python script that creates the State
 “California” with the City “San Francisco” from the database hbtn_0e_100_usa
 
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 7 2022
+
 """
 
 from relationship_state import Base, State
